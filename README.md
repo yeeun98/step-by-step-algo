@@ -1,2 +1,34 @@
-# step-by-step-algo
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+### 🚀 step-by-step-algo
+
+> **"작은 걸음이 모여 큰 성장을 이룬다."**  
+> 백준 알고리즘 문제를 통해 한 단계씩 성장하는 과정을 기록하는 레포지토리입니다.
+
+---
+
+#### 📚 소개
+이 레포지토리는 **Baekjoon Online Judge**의 문제 풀이를 자동으로 저장하는 공간입니다.  
+매일 조금씩 꾸준히 학습하며 **문제 해결력**과 **알고리즘 사고력**을 키우기 위해 만들어졌습니다.  
+**목표는 단순한 문제 풀이를 넘어서, 더 나은 코드와 논리적인 사고를 쌓아가는 것!**
+
+---
+
+#### ✨ 목표
+- **꾸준함:** 매일 알고리즘 문제 풀이를 실천
+- **성장:** 문제를 단순히 푸는 것이 아닌, 새로운 개념과 효율적인 풀이 방법 익히기
+- **기록:** 실수와 배운 점들을 기록하며 나만의 성장 로그 만들기
+
+---
+
+#### 🛠️ 사용 기술
+- **JavaScript (Node.js)** - 문제 풀이
+- **BaekjoonHub** - 백준 자동 업로드  
+- **Git & GitHub** - 버전 관리 및 기록
+
+---
+
+#### 💡 To Do
+- [ ] Silver, Gold 레벨 문제 도전
+- [ ] 효율성 개선을 위한 다양한 알고리즘 학습
+- [ ] 코드 리뷰 및 리팩토링으로 코드 품질 향상
+
+---
